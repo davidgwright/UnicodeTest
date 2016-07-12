@@ -1,5 +1,5 @@
 # UnicodeTest
-For StackOverflow Question on Icon\Dialog transparency
+For StackOverflow Question on Icon\Dialog transparency in VS 2008 on Windows CE devices.
 
 Make sure "Arial Unicode MS" font is on the device - I have placed one version in ForDeviceOrEmulator. I think its just a matter of placing it in the Font directory under the Windows directory on the device or emulator.
 
