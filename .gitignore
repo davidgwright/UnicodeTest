@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+*.ncb
+UnicodeTest/Windows Mobile 6 Professional SDK (ARMV4I)/
+*.user

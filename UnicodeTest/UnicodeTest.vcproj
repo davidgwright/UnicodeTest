@@ -220,10 +220,6 @@
 				</FileConfiguration>
 			</File>
 			<File
-				RelativePath=".\StudioFile.cpp"
-				>
-			</File>
-			<File
 				RelativePath=".\UnicodeTest.cpp"
 				>
 			</File>
@@ -250,19 +246,11 @@
 				>
 			</File>
 			<File
-				RelativePath=".\StudioFile.h"
-				>
-			</File>
-			<File
 				RelativePath=".\UnicodeTest.h"
 				>
 			</File>
 			<File
 				RelativePath=".\UnicodeTestDlg.h"
-				>
-			</File>
-			<File
-				RelativePath=".\UTF8toUTF16.h"
 				>
 			</File>
 			<File
